@@ -1,0 +1,23 @@
+baseurl = "/research"
+languageCode = "utf-8"
+title = "MVP Tutorial"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+publishdir = "docs"
+
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Seminar"
+    url = "/about/"
+    weight = 2
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [MVP Tutorial](https://yonseimvp.github.io/tutorial) 2017"
