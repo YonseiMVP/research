@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/seminar/categories/</loc>
+    <loc>/research/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/seminar/</loc>
+    <loc>/research/</loc>
   </url>
   
   <url>
-    <loc>/seminar/about/</loc>
+    <loc>/research/about/</loc>
   </url>
   
   <url>
-    <loc>/seminar/tags/</loc>
+    <loc>/research/tags/</loc>
     <priority>0</priority>
   </url>
   

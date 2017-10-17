@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on MVP Tutorial</title>
-    <link>/seminar/</link>
+    <link>/research/</link>
     <description>Recent content in Home on MVP Tutorial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     
-	<atom:link href="/seminar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MVP Tutorial Winter Seminar</title>
-      <link>/seminar/about/</link>
+      <link>/research/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/about/</guid>
+      <guid>/research/about/</guid>
       <description>Fully Convolutional Networks for Semantic Segmentation Evan Shelhamer, Jonathan Long and Trevor Darrell, CVPR 2015 FCN 은 Semantic Segmentation을 하는 Paper입니다.  
 논문은 여기서 받으실 수 있습니다.
 
