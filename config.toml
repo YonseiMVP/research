@@ -10,14 +10,14 @@ footnotereturnlinkcontents = "↩"
 publishdir = "docs"
 
 [[menu.main]]
-    name = "About"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
     name = "Seminar"
-    url = "/about/"
+    url = "/seminar/"
     weight = 2
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [MVP Tutorial](https://yonseimvp.github.io/tutorial) 2017"
+    footer = "&copy; [MVP Tutorial](http://mvp.yonsei.ac.kr) 2017"
